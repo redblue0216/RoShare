@@ -1,0 +1,3 @@
+include roshareclient/doc/README.mdown
+include roshareclient/roshareclient_config.yaml
+graft roshareclient/test

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: roshareclient
+Version: 0.1.1
+Summary: RoShareClient is a python sdk with chinese stock data client
+Author: shihua
+Author-email: 15021408795@163.com
+License: MIT
+Requires-Python: >=3.9.13

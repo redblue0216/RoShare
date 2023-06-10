@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+roshareclient/__init__.py
+roshareclient.egg-info/PKG-INFO
+roshareclient.egg-info/SOURCES.txt
+roshareclient.egg-info/dependency_links.txt
+roshareclient.egg-info/top_level.txt
+roshareclient/client/__init__.py
+roshareclient/client/api.py
+roshareclient/client/cons.py
+roshareclient/test/test_dataapi.py
