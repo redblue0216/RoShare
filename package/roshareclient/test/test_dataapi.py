@@ -198,7 +198,7 @@ tmp_dict['src'] = 'eastmoney'
 tmp_dict['start_date'] = '2023-06-09+00:00:00' ### url中+号表示空格
 tmp_dict['end_date'] = '2023-06-10+00:00:00'
 roshareclient = DataAPI(token_key = 7890,
-                    token='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODYzMjQ5NDUuODkxOTEzNywidXNlciI6InRlc3QifQ.XElnwVRsMrT9LLJCUNVuRu00WDoTNNm0_X5bTKmoy2A',
+                    token='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODY0OTYzMDIuMTE5MjAyNiwidXNlciI6InRlc3QifQ.wZE19w5MLM6FNn78vLTg3PPc-M8Blm-M1mwTLR0xpuw',
                     tushare_token='cd77d46c73f80cb42c4c1cadd52cd81daa9c40f7a137c809de96b90a',
                     timeout=6000)
 df = roshareclient.get_tushare_news(params=tmp_dict)

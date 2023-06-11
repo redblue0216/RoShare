@@ -3,7 +3,7 @@ from setuptools import setup,find_packages
 setup(
         ### 包与作者信息
         name = 'roshareclient',
-        version = '0.1.1',
+        version = '0.1.2',
         author = 'shihua',
         author_email = "15021408795@163.com",
         python_requires = ">=3.9.13",
